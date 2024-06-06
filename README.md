@@ -1,2 +1,2 @@
 # calculatore
-create calculatore using HTML , CSS , JAVASCRIPT
+Create calculatore using HTML , CSS , JAVASCRIPT
